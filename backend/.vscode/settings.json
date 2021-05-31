@@ -1,0 +1,10 @@
+{
+	"python.pythonPath": "C:\\Users\\sirto\\OneDrive\\Desktop\\PROJECTS\\eCommerce\\tifeenv\\Scripts\\python.exe",
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"editor.fontLigatures": null,
+	"python.linting.pylintArgs": [
+		"--disable=django-not-configured",
+		"--django-settings-module=backend.settings"
+	]
+}
