@@ -71,7 +71,7 @@ spritesmith.scss
 # templated email
 tmp_email/
 
-.vscode
-.history
+.vscode/
+.history/
 db.sqlite3
 
