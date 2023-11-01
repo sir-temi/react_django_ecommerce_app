@@ -40,18 +40,6 @@ python manage.py runserver # for Django
 
 Visit `http://localhost:3000` in your browser.
 
-## Configuration
-
-If there are any configuration steps or environment variables required, mention them here.
-
-## Usage
-
-Provide examples or instructions on how to use your application. Include screenshots or GIFs if necessary.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
